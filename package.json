@@ -1,0 +1,30 @@
+{
+  "name": "simple-atm-by-sultan",
+  "version": "1.0.0",
+  "description": "A simple atm login programmed using typescript inquirer module.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyymuhammad/typescript-simple-atm.git"
+  },
+  "keywords": [
+    "typescript",
+    "atm",
+    "login",
+    "node"
+  ],
+  "author": "Sultan Muhammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyymuhammad/typescript-simple-atm/issues"
+  },
+  "homepage": "https://github.com/heyymuhammad/typescript-simple-atm#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
