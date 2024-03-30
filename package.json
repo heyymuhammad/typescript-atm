@@ -1,10 +1,16 @@
 {
   "name": "atm-by-sultan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple atm login programmed using typescript inquirer module.",
   "main": "main.js",
+  "files": [
+    "pin.txt",
+    "transaction.csv"
+  ],
   "type": "module",
-  "bin": "main.js",
+  "bin": {
+    "atm-by-sultan": "main.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,5 +32,6 @@
   "homepage": "https://github.com/heyymuhammad/typescript-simple-atm#readme",
   "dependencies": {
     "inquirer": "^9.2.16"
-  }
+  },
+  "devDependencies": {}
 }
