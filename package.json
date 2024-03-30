@@ -1,5 +1,5 @@
 {
-  "name": "simple-atm-by-sultan",
+  "name": "atm-by-sultan",
   "version": "1.0.0",
   "description": "A simple atm login programmed using typescript inquirer module.",
   "main": "main.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heyymuhammad/typescript-simple-atm.git"
+    "url": "git+https://github.com/heyymuhammad/typescript-atm.git"
   },
   "keywords": [
     "typescript",

@@ -1,0 +1,4 @@
+amount,date,balance,method
+10000,Fri Mar 29 2024 12:45:24 GMT+0500 (Pakistan Standard Time),50000,Transfered
+25000,Fri Mar 29 2024 12:52:06 GMT+0500 (Pakistan Standard Time),25000,Debited
+20000,Fri Mar 29 2024 20:25:41 GMT+0500 (Pakistan Standard Time),5000,Debited
